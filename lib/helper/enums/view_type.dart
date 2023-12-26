@@ -1,0 +1,5 @@
+
+enum TrafficViewType{
+  inGroup,
+  fullScreen,
+}
